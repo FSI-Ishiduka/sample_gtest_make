@@ -1,0 +1,2 @@
+以下のコマンドでここにgoogletestのソースコードを取得してください。
+git clone https://github.com/google/googletest
